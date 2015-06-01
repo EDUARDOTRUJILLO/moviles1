@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.paginamoviles{background:rgba(53,132,163,1.00); width:300px}
+.titulo { background:rgba(98,239,22,1.00); color:rgba(248,239,239,1.00); font-family:"android"; font-size:36px}
+.intro  { color:rgba(255,248,248,1.00); background: rgba(53,132,163,1.00); height:220px; width:800px}
+.imagenes{ float:left; width:200px; height:200px}
+.texto{ float:right; width:600px; height:200px}
+.pienombre{ background:rgba(98,239,22,1.00); color:rgba(248,239,239,1.00); font-size:36px}
+
+

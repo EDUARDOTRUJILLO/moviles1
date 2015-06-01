@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family:'android';
+	src:url(../fuentes/Android%20Hollow.ttf);
+	src:url(../fuentes/Android%20Italic.ttf);
+	src:url(../fuentes/Android%20Scratch.ttf);
+	src:url(../fuentes/Android.ttf) ;
+	
